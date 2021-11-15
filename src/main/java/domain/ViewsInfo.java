@@ -1,6 +1,6 @@
 package domain;
 
-public class Views {
+public class ViewsInfo {
     private int count;
 
     // do setters & getters
