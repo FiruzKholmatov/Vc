@@ -11,9 +11,10 @@ public class Post {
     private int date;
     private String text;
     private int previewCount;
-    private int commentsInfo;
-    private int likesInfo;
-    private int repostsInfo;
+    private CommentsInfo commentsInfo;
+    private LikesInfo likesInfo;
+    private RepostsInfo repostsInfo;
+    private ViewsInfo viewsInfo;
 
 
 
