@@ -2,10 +2,10 @@ package domain;
 
 public class CommentsInfo {
     private int counter;
-    private boolean can_post;
-    private boolean groups_can_post;
-    private boolean can_close;
-    private boolean can_open;
+    private boolean canPost;
+    private boolean groupsCanPost;
+    private boolean canClose;
+    private boolean canOpen;
 
     // do setters & getters
 

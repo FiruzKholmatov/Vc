@@ -2,7 +2,7 @@ package domain;
 
 public class RepostsInfo {
     private int counter;
-    private int user_reposted;
+    private int userReposted;
 
     // do setters & getters
 }
